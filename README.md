@@ -1,4 +1,3 @@
 # Hello-World
 My first starting repository
-
-Hola friends! I am Saurav Agarwal. This is just to start with GitHub.
+THis is my first repository just to start out with using git.
